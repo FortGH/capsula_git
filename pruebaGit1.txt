@@ -1,2 +1,3 @@
 <<<<<<< HEAD
-Modificacion en local
+Modificacion  en local
+ver el conflicto con  SourceTree
