@@ -1,2 +1,3 @@
-Modificacion  en github
-segunda modificacion
+<<<<<<< HEAD
+Modificacion  en local
+ver el conflicto con  SourceTree
